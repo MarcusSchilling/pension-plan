@@ -1,0 +1,3 @@
+# all files in target folder are not necessary for the project, so we ignore them
+target/
+config.toml
